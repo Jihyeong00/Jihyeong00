@@ -12,7 +12,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-# 📊GitHub Stats :
+# 📊GitHub Stats 
 ![Github-Staus](https://github-readme-stats.vercel.app/api?username=Jihyeong00&theme=jolly_icons=false) &nbsp;  &nbsp;  &nbsp;
  [![](https://visitcount.itsvg.in/api?id=Jihyeong00&icon=7&color=6)](https://visitcount.itsvg.in) 
 <!-- ## 🏆GitHub Trophies
